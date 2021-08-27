@@ -29,4 +29,30 @@
 .body-header {
     text-align: center;
     border-bottom: 1px solid #fafafa;
+    width: 50%;
+    
 }
+.flex-container-1>ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+li {
+    margin: 2% 2% 2%;
+    padding: 5% 2% 5%;
+    list-style-type: none;
+    border: solid 1px #fafafa;
+    background: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 8px;
+}
+.point1 {
+}
+.point2 {
+
+}
+.point3
+.point4
+.point5
