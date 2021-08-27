@@ -1,0 +1,32 @@
+* {
+    background-color: aqua;
+    margin: auto;
+}
+.header-container {
+    display: flex;
+    margin:5% 2% 5%;
+    justify-content: space-between;
+    text-align: center;
+    border-radius: 8px;
+}
+.header2, header  {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border: white 1px solid;
+    border-radius: 8px;
+}
+.header-title {
+    margin-left: 1%;
+}
+.header2 {
+    margin-right: 1%;
+}
+.main-container {
+    width: 95%;
+    margin: auto;
+}
+.body-header {
+    text-align: center;
+    border-bottom: 1px solid #fafafa;
+}
